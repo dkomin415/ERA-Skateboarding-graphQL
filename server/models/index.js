@@ -1,3 +1,3 @@
-import Trick from './Trick.js';
+import User from './User.js';
 
-export default { Trick };
+export default { User };
